@@ -1,0 +1,26 @@
+h1{
+    color: blue;
+}
+
+#Paragraphe1{
+    font-size: 35px;
+    color: rgb(184, 146, 219);
+    
+}
+
+
+.center{
+    text-align: center;
+    color: blue;
+    background-color: chartreuse;
+}
+
+/*Appliquer la mm couleur fond au paragraphe 3 et aux paragraphes de la classe "center"*/
+#Paragraphe2, .center{
+    font-size: 40px;
+}
+
+span{
+    color: blue;
+    font-weight: 400
+};
